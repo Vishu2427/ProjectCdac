@@ -1,0 +1,6 @@
+Hello THis is tho test MVW model
+we have Learnt
+
+1.views
+2.models
+3.controleer
